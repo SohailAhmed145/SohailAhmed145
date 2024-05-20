@@ -1,7 +1,7 @@
 ![logo](https://github.com/SohailAhmed145/SohailAhmed145/blob/main/githubbanner2.gif)
 <h1 align="center">Hi 👋, I'm Sohail Ahmed</h1>
 <h3 align="center">Crafting Cutting-Edge Code on GitHub as a Software Engineer😎</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/041c42a3a41e3093ed6e478e6e1df9fc16002969498c0c3632fe4a06746ea11f/68747470733a2f2f64657369676e62756666732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31312f426f792d576f726b696e672d46726f6d2d486f6d652e676966">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailahmed145&label=Profile%20views&color=0e75b6&style=flat" alt="sohailahmed145" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@sohaila39963845" target="blank"><img src="https://img.shields.io/twitter/follow/@sohaila39963845?logo=twitter&style=for-the-badge" alt="@sohaila39963845" /></a> </p>
